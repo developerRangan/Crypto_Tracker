@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/05/13/19/bitcoin-price-live-ethereum-dogecoin.jpeg?width=982&height=726&auto=webp&quality=75");
+    
+}
+h1,h4{
+    color:cornsilk;
+}
+h1{
+    font-weight: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label{
+    color: cornsilk;
+    text-align: center;
+    
+    
+}
+button{
+    background-color: darkgreen;
+}
+table{
+
+    border: black;
+    background-color: rgba(165, 228, 94, 0.918);
+    grid: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
